@@ -1,5 +1,5 @@
 # Critters
-Critters is a program to demonstrate a program with a pre-existing main method, where we must create classes to interact with the program. This allows us to create several critters for a critter batter game!
+Critters is a program to demonstrate a program with a pre-existing main method, where we must create classes to interact with the program. This allows us to create several critters for a critter simulation game!
 
 This program uses 12 classes, the 4 I created are as follows:
 - Bear: This critter can be white or black, is represented as a slash or backslash and likes to turn left when it hits a wall.
