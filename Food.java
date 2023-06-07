@@ -1,3 +1,4 @@
+// I, JACK ALBRECHT, AM NOT THE AUTHOR OF THE CODE IN THIS CLASS.
 // This defines a simple class of critters that sit around waiting to be
 // taken over by other critters.
 
