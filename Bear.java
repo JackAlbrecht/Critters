@@ -6,7 +6,7 @@ public class Bear extends Critter {
 
     public Bear(boolean polar) {
         this.polar = polar; // Initialize the polar variable with the provided value
-        this.slash = true; // Initialize the slash variable to true
+        this.slash = true; // Initialize the slash variable to be true
     }
 
     public Color getColor() {
