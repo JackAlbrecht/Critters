@@ -1,3 +1,4 @@
+// I, JACK ALBRECHT, AM NOT THE AUTHOR OF THE CODE IN THIS CLASS.
 // Class CritterPanel displays a grid of critters
 
 import javax.swing.*;
