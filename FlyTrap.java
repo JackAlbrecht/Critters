@@ -1,3 +1,4 @@
+// I, JACK ALBRECHT, AM NOT THE AUTHOR OF THE CODE IN THIS CLASS.
 // This defines a simple class of critters that infect whenever they can and
 // otherwise just spin around, looking for critters to infect.  This simple
 // strategy turns out to be surpisingly successful.
