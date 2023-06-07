@@ -1,3 +1,4 @@
+// I, JACK ALBRECHT, AM NOT THE AUTHOR OF THE CODE IN THIS CLASS.
 // Class CritterModel keeps track of the state of the critter simulation.
 
 import java.util.*;
