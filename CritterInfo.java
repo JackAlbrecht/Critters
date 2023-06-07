@@ -1,3 +1,4 @@
+// I, JACK ALBRECHT, AM NOT THE AUTHOR OF THE CODE IN THIS CLASS.
 // The CritterInfo interface defines a set of methods for querying the
 // state of a critter simulation.  You should not alter this file.  See
 // the documentation in the Critter class for a more detailed explanation.
