@@ -1,3 +1,4 @@
+// I, JACK ALBRECHT, AM NOT THE AUTHOR OF THE CODE IN THIS CLASS.
 // This is the superclass of all of the Critter classes.  Your class should
 // extend this class.  The class provides several kinds of constants:
 //
