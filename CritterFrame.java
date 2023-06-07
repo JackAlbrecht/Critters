@@ -1,3 +1,4 @@
+// I, JACK ALBRECHT, AM NOT THE AUTHOR OF THE CODE IN THIS CLASS.
 // Class CritterFrame provides the user interface for a simple simulation
 // program.
 
