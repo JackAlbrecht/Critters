@@ -1,4 +1,4 @@
-// I, JACK ALBRECHT, AM NOT THE AUTHOR OF THE CODE IN THIS CLASS.
+//  I, JACK ALBRECHT, AM NOT THE AUTHOR OF THE CODE IN THIS CLASS.
 // CSE 142 Homework 9 (Critters)
 // Authors: Stuart Reges and Marty Stepp
 //          modified by Kyle Thayer
